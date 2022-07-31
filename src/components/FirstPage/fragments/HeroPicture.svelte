@@ -1,0 +1,1 @@
+<div class="w-full h-[425px] bg-blue-300 font-bold text-2xl text-dirtyWhite flex justify-center items-center"><p>A picture</p></div>
